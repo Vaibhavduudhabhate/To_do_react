@@ -1,7 +1,7 @@
 import React from "react";
 import "./Todo.css";
-import Savetask_right from "./Savetask_right";
-import Savetask_left from "./Savetask_left";
+import Savetaskright from "./Savetaskright";
+import Savetaskleft from "./Savetaskleft";
 
 export default function Todo() {
 
@@ -22,8 +22,8 @@ export default function Todo() {
             <div className="backward"></div>
           </div>
           <div className="tasks_container">
-            <Savetask_left/>
-            <Savetask_right/>
+            <Savetaskleft/>
+            <Savetaskright/>
           </div>
         </div>
       </div>

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 
-export default function Savetask_left() {
+export default function Savetaskleft() {
 
   useEffect(()=>{
     const storedTasks = JSON.parse(localStorage.getItem('tasks')) || [];

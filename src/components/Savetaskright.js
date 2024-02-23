@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 // import "./Todo.css";
 
-export default function Savetask_right() {
+export default function Savetaskright() {
 
     useEffect(()=>{
         const storedTasks = JSON.parse(localStorage.getItem('tasks2')) || [];
