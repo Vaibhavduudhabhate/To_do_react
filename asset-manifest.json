@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/toDoTask_react_1/static/css/main.13f4814f.css",
+    "main.js": "/toDoTask_react_1/static/js/main.a1154794.js",
+    "static/media/background.jpg": "/toDoTask_react_1/static/media/background.12335890f35f2f7265ef.jpg",
+    "index.html": "/toDoTask_react_1/index.html",
+    "main.13f4814f.css.map": "/toDoTask_react_1/static/css/main.13f4814f.css.map",
+    "main.a1154794.js.map": "/toDoTask_react_1/static/js/main.a1154794.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13f4814f.css",
+    "static/js/main.a1154794.js"
+  ]
+}
